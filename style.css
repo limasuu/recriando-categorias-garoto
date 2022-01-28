@@ -1,0 +1,15 @@
+:root{
+    --vermelho: #ff102b;
+    --roxo1: #654676;
+    --roxo2: #653e77;
+    --amarelo: #fecb00;
+    --verde: #75bb46;
+    --laranja: #f28c00;
+    --branco: white;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
