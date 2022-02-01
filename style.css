@@ -39,3 +39,21 @@ header{
 .logo-header{    
     margin-right: 10vw;
 }
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+header ul{
+    display: flex;      
+    align-items: center;
+}
+
+header li{
+    margin: 0 5px 0 5px;
+}
+
