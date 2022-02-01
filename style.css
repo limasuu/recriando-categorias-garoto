@@ -13,3 +13,25 @@
     padding: 0px;
 }
 
+body{   
+    font-family: 'Anton', sans-serif;
+    text-transform: uppercase;/* ----- */ height: 900px; 
+}
+
+.conteudo{
+    display: flex;    
+    justify-content: center;
+    padding: 0 7vw 0 7vw;
+}
+
+header .conteudo{
+    justify-content: space-around;
+}
+
+header{    
+    background-color: var(--vermelho);
+    border-top: 20px solid var(--roxo1);
+    padding: 10px; 
+    position: sticky;
+    top: 0;
+}
