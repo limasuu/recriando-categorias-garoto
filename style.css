@@ -57,3 +57,28 @@ header li{
     margin: 0 5px 0 5px;
 }
 
+header a{
+    color: var(--amarelo);
+    transition: .4s;
+}
+
+header a:hover{    
+    transition: .4s;
+}
+
+.menu-header li{
+    font-size: 20px;
+}
+
+.menu-header a:hover{
+    color: var(--branco);
+}
+
+.midias-header li{
+    font-size: 32px;
+}
+
+.midias-header a:hover{    
+    opacity: 0.7;
+}
+
