@@ -15,7 +15,7 @@
 
 body{   
     font-family: 'Anton', sans-serif;
-    text-transform: uppercase;/* ----- */ height: 900px; 
+    text-transform: uppercase;
 }
 
 .conteudo{
@@ -34,4 +34,8 @@ header{
     padding: 10px; 
     position: sticky;
     top: 0;
+}
+
+.logo-header{    
+    margin-right: 10vw;
 }
