@@ -85,3 +85,8 @@ header a:hover{
 .topo-produtos{
     background-color: var(--laranja);
 }
+
+.produtos{
+    background-color: var(--amarelo);
+    padding-top: 20px;
+}
