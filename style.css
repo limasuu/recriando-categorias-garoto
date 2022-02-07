@@ -126,3 +126,31 @@ header a:hover{
     font-family: 'Roboto', sans-serif;
     padding: 5px;
 }
+
+footer .conteudo{
+    background-color: var(--verde);
+    font-size: 18px;
+    color: var(--branco);
+}
+
+footer .links{
+    display: flex;
+    justify-content: space-between;
+    width: 80vw;
+    padding: 30px 50px 30px 0px;
+}
+
+.menu-footer{
+    width: 50vw;
+}
+
+.menu-footer ul{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+}
+
+.menu-footer li{
+    width: 30%;
+    padding: 5px;
+}
