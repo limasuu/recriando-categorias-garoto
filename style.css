@@ -164,3 +164,17 @@ footer a:hover{
     opacity: 0.7;
     transition: .4s;
 }
+
+.sac{
+    display: flex;
+    align-items: center;
+    padding: 0 20px 0 20px;
+}
+
+.img-sac{
+    padding: 0 20px 0 20px;
+}
+
+.sac p{
+    padding: 5px 0 5px;    
+}
