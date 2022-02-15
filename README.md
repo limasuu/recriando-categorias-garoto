@@ -11,3 +11,11 @@ Este projeto recria a [página de Categorias](https://www.garoto.com.br/categori
 ![layout1](img/layout1.png)
 
 ![layout2](img/layout2.png)
+
+![layout1](img/responsivo1.png)
+
+![layout1](img/responsivo2.png)
+
+![layout1](img/responsivo3.png)
+
+![layout1](img/responsivo4.png)
